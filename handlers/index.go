@@ -145,7 +145,7 @@ func index(ctx *gin.Context) {
 	}
 
 	ctx.HTML(http.StatusOK, "index", gin.H{
-		"title":        "BaseApp",
+		"title":        "SimpleDex",
 		"cssFiles":     cssFiles,
 		"jsFiles":      jsFiles,
 		"rootID":       "root",

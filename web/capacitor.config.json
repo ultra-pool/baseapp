@@ -1,6 +1,6 @@
 {
   "appId": "odax.openware.work",
-  "appName": "Baseapp",
+  "appName": "SimpleDex",
   "bundledWebRuntime": false,
   "npmClient": "yarn",
   "webDir": "build",
